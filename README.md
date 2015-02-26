@@ -1,4 +1,4 @@
-# scrubdemo
+# scrubdemo (Android application)
 
 
 Create a single view application that allows the user to view a series of images. 
